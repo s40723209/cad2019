@@ -2,13 +2,13 @@ Title: About
 
 ## s40723209 cad2019
 
-課程倉儲: <a href="https://github.com/chiamingyen/cmsimfly">https://github.com/chiamingyen/cmsimfly</a>
+課程倉儲: [https://github.com/s40723209/cad2019](https://github.com/s40723209/cad2019)
 
-內容管理: <a href="https://chiamingyen.github.io/cmsimfly/">https://chiamingyen.github.io/cmsimfly/</a>
+課程網誌: [https://s40723209.github.io/cad2019/blog/cad2019-Fall-32-bit-Windows.html](https://s40723209.github.io/cad2019/blog/cad2019-Fall-32-bit-Windows.html)
 
-課程投影片: <a href="https://chiamingyen.github.io/cmsimfly/reveal">https://chiamingyen.github.io/cmsimfly/reveal</a>
+課程投影片: [https://s40723209.github.io/cad2019/reveal/index.html](https://s40723209.github.io/cad2019/reveal/index.html)
 
-課程網誌: <a href="https://chiamingyen.github.io/cmsimfly/blog">https://chiamingyen.github.io/cmsimfly/blog</a>
+課程網站: [https://s40723209.github.io/cad2019/content/index.html](https://s40723209.github.io/cad2019/content/index.html)
 
 
 
