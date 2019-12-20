@@ -149,11 +149,60 @@ init_mathjax();
           </div>
           
         </header>
-    <div id="tipue_search_content">About << <a href='About.html'>Previous</a> <br /><h1>Develop</h1>
-<p><a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 的開發, 可以在一個目錄中放入 cmsimde, 然後將 up_dir 中的內容放到與 cmsimde 目錄同位階的地方, 使用 command 進入 cmsimde 目錄, 執行 python wsgi.py, 就可以啟動, 以瀏覽器 https://localhost:9443 就可以連接, 以 admin 作為管理者密碼, 就可以登入維護內容.</p>
-<p>cmsimde 的開發採用 Leo Editor, 開啟 cmsimde 目錄中的 cmsimde.leo 就可以進行程式修改, 結束後, 若要保留網際內容, 只要將 cmsimde 外部的內容倒回 up_dir 目錄中即可後續對 cmsimde 遠端倉儲進行改版.</p>
-<p>init.py 位於  up_dir 目錄, 可以設定 site_title 與 uwsgi 等變數.</p>
-<p><strong></strong></p><br />About << <a href='About.html'>Previous</a> </div>
+    <div id="tipue_search_content">week10 << <a href='week10.html'>Previous</a> <a href='week13.html'>Next</a> >> week13<br /><h1>week12</h1>
+<p><span>1.</span>Batch Command</p>
+<p>操作影片:</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/fziDfrLIJa0" width="560"></iframe></p>
+<p>2.<span>組員個別完成nx12各章節內容閱讀與操作練習</span></p>
+<p><span></span>第三章</p>
+<p>3.1<span lang="zh-TW" tabindex="0">總覽</span></p>
+<p>NX 12草圖是一組命名的曲線，這些曲線連接在一個字符串中，掃描後形成實體的草圖表示該零件的外邊界。曲線在草繪器中的平面上創建。首先，這些曲線的繪製沒有任何確切的尺寸。然後，維度應用約束和幾何約束以完全約束草圖。</p>
+<p>•草圖可以旋轉</p>
+<p>•草圖可以拉伸</p>
+<p>•草圖可以沿參考線（線）進行掃掠</p>
+<p>使用草圖創建零件的優點是：</p>
+<p>•用於創建輪廓輪廓的曲線非常靈活，可用於建模不尋常的形狀。</p>
+<p>•曲線是參數化的，因此具有關聯性，可以輕鬆更改或刪除它們。</p>
+<p>•如果更改了繪製草圖的平面，則草圖將被更改相應的。</p>
+<p>•當您想要控制特徵的輪廓時，草圖非常有用，尤其是當它可能將來需要更改。草圖可以快速，輕鬆地進行編輯</p>
+<p>3.2草圖<span>素描</span></p>
+<p>在<span>NX 12</span>中，可以使用兩種方法創建草圖。</p>
+<p>第一種方法在當前環境和應用。</p>
+<p>➢選擇菜單→插入→草圖</p>
+<p>在另一種方法中，您可以使用</p>
+<p>➢在主工具欄中選擇素描</p>
+<p>在完成標誌旁邊有三個有用的選項。你可以改變框中的草圖名稱。下一個是東方素描從而將視圖定向到草圖平面。如果模型文件是在草繪過程中旋轉，請單擊此圖標以查看在平行於屏幕的平面上繪製草圖重新附著將草圖附加到另一個平面上，基準平面或路徑，或更改草圖方向。它允許您將草圖重新附加到所需的平面，而無需重新創建所有曲線，尺寸和約束。</p>
+<p>3.3草圖曲線工具欄</p>
+<p>工具欄包含用於創建常用類型的圖標 曲線和样條曲線，編輯，擴展，修剪， 圓角等。每種類型的曲線都有不同的方法 選擇和創建方法。讓我們討論最多 常用選項。輪廓此選項會根據您在彈出工具欄中選擇的圖標創建直線和圓弧。您可以使用坐標系或輸入長度和線的角度</p>
+<p>線</p>
+<p>此選項將選擇性地僅創建直線。</p>
+<p>弧</p>
+<p>此選項通過兩種方法之一創建弧。第一個選項以三個順序創建弧</p>
+<p>第二個選項創建具有中心點，半徑和後掠角或按中心點的弧帶有起點和終點圈創建圓類似於創建圓弧，不同之處在於，圓是封閉的。</p>
+<p>快速修剪</p>
+<p>這將從曲線的交點修剪延伸的曲線。該選項顯示為如果每個實體與另一個實體相交，則將它們拆分，並刪除該部分已選擇。</p>
+<p>Studio樣條線</p>
+<p>您可以使用極點或通過點創建基本樣條曲線（<span>B</span>樣條曲線和<span>Bezier</span>）。</p>
+<p>3.4約束工具欄</p>
+<p>所有曲線都是通過拾取點創建的。在<span>NX 12</span>中，智能約束是自動應用的，以下段落顯示瞭如何手動應用約束。</p>
+<p>尺寸約束</p>
+<p>通過給尺寸賦予固定實體（例如軸）的尺寸，可以消除自由度，平面，坐標系或模型中創建的任何現有實體幾何。這些尺寸可以是線性，徑向，角度等。您可以隨時編輯尺寸值在草圖繪製過程中雙擊尺寸。</p>
+<p>幾何約束除了尺寸約束外，還可以給出一些幾何約束來消除自由程度。它們包括平行，垂直，共線，同心，水平，垂直，等長等。該軟件具有查找以下可能約束的能力：所選實體。例如，將約束應用到下圖中的行上平行於矩形的左側（該線最初與矩形成一定角度）。</p>
+<p>顯示草圖</p>
+<p>約束單擊此圖標將顯示與該特定草圖中的實體相關的所有選項。</p>
+<p>顯示<span>/</span>刪除約束</p>
+<p>該窗口列出了與所選任何實體相關的所有約束和約束類型。您可以刪除任何列出的約束或更改約束的順序。狀態行中顯示不受約束的自由度數。所有應通過遵循約束模型來應用約束來消除這些約束。</p>
+<p>3.5範例</p>
+<p>3.5.1操作影片:</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/gyytVxdSWhc" width="560"></iframe></p>
+<p>3.5.2操作影片:</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/sI8jQMB29iw" width="560"></iframe></p>
+<p>3.5.3操作影片:</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/ZCLq9li6w5g" width="560"></iframe></p>
+<p>3.6練習</p>
+<p>3.6.1操作影片:</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/3atxqz04NSU" width="560"></iframe></p>
+<br />week10 << <a href='week10.html'>Previous</a> <a href='week13.html'>Next</a> >> week13</div>
         
     <!-- footer -->
       <div class="container">
