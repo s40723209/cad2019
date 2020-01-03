@@ -471,6 +471,30 @@
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/8RFNCPmVTB4" width="560"></iframe></p>
 <h5><strong>week16報告影片:</strong></h5>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/0NDzjD7S5X8" width="560"></iframe></p>
+<h1>week17</h1>
+<h5><strong>Webots User Guide Tutorial 2重點整理</strong></h5>
+<p>First we create a new simulation based。</p>
+<p>首先，創建的模擬創建一個新的模擬。</p>
+<p>We will now delete the RectangleArena node and add a simple floor。</p>
+<p>我們將刪除該<span>rectangleArena</span>節點，並添加一個簡單的地板。</p>
+<p>To define a rigid body, you will have to create a Solid node. Inside this node you will set up different sub-nodes corresponding to the characteristics of the rigid body. The following figure depicts a rigid body and its sub-nodes. The graphical representation of the Solid node is defined by the Shapenodes populating its children list. The collision bounds are defined in its boundingObject field. The graphical representation and the collision shape are often but not necessarily identical. Finally, the physics field defines if the object belongs to the dynamical or to the static environment. All these sub-nodes are optional, but the physics field needs the boundingObject to be defined。</p>
+<p>要定義剛體，您將必須創建一個實體節點。在此節點內，您將根據剛體的特性設置不同的子節點。描繪了剛體及其子節點。實體節點的圖形表示由填充其列表的<span>Shape</span>節點定義children。碰撞範圍在其<span>boundingObject </span>字段中定義。圖形表示和碰撞形狀通常但不一定相同。最後，該physics字段定義對像是屬於動態環境還是屬於靜態環境。所有這些子節點都是可選的，但是physics需要<span>boundingObject </span>定義該字段。</p>
+<p>In the scene tree view, select the last node and press the Add button. In the dialog, open the Bases nodes section and select the Solid node. In the scene tree view, expand the Solid node and select its children field. Add a Shape node to it by using the Add button. Select the appearance field of the Shape node and use the Add button to add a PBRAppearance node.</p>
+<p>在場景樹視圖中，選擇最後一個節點，然後按<span>Add</span>按鈕。在對話框中，打開該<span>Bases nodes</span>部分，然後選擇實體節點。在場景樹視圖中，展開實體節點並選擇其<span>children</span>字段。使用按鈕向其添加一個<span>Shape</span>節點<span>Add</span>。選擇形狀節點的<span>appearance</span>字段，然後使用按鈕添加一個節點。<span>AddPBRAppearance</span>。</p>
+<p>1.Add a Sphere node as the geometry field of the newly created Shape node.</p>
+<p>2.Expand the PBRAppearance node and change its metalness field to 0 and its roughness field to 1.</p>
+<p>3.Add another Sphere node to the boundingObject field of the Solid.</p>
+<p>4.Finally add a Physics node to the physics field of the Solid.</p>
+<p>5.By modifying the translation field of the Solid node, place the ball in front of the robot</p>
+<p>6.Save the simulation.</p>
+<p>1.將球體節點添加為<span>geometry</span>新創建的形狀節點的字段。</p>
+<p>2.展開<span>PBRAppearance</span>節點並將其<span>metalness</span>字段更改為<span>0</span>，並將其<span>roughness</span>字段更改為<span>1</span>。</p>
+<p>3.將另一個<span>Sphere</span>節點添加到<span>Solid</span>的<span>boundingObject</span>字段。</p>
+<p>4.最後，將一個<span>Physics</span>節點添加到<span>Solid</span>的<span>physics</span>字段中。</p>
+<p>5.通過修改實體節點的<span>translation</span>字段，將球放在機器人的前面</p>
+<p>6.保存模擬。</p>
+<p><strong>越野車操作影片</strong>:</p>
+<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/OQ_rg7D2rFw" width="560"></iframe></p>
 <h1>About</h1>
 <p>此內容管理系統以 <a href="https://github.com/mdecourse/cmsimde">https://github.com/mdecourse/cmsimde</a> 作為 submodule 運作, 可以選定對應的版本運作, cmsimde 可以持續改版, 不會影響之前設為 submodule, 使用舊版 cmsimde 模組的內容管理相關運作.</p>
 <h4>利用 cmsimde 建立靜態網誌方法:</h4>
