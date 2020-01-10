@@ -33,6 +33,27 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
+<v t="leo.20200110111045.1"><vh>封面投影片</vh>
+<v t="leo.20200110111045.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110111122.1"><vh>封面投影片</vh>
+<v t="leo.20200110111122.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110111719.1"><vh>封面投影片</vh>
+<v t="leo.20200110111719.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110111726.1"><vh>封面投影片</vh>
+<v t="leo.20200110111726.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110112321.1"><vh>封面投影片</vh>
+<v t="leo.20200110112321.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110112325.1"><vh>封面投影片</vh>
+<v t="leo.20200110112325.2"><vh>封面投影片內容</vh></v>
+</v>
+<v t="leo.20200110112802.1"><vh>封面投影片</vh>
+<v t="leo.20200110112802.2"><vh>封面投影片內容</vh></v>
+</v>
 <v t="leo.20180902120523.11"><vh>快捷鍵</vh>
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
@@ -390,5 +411,87 @@ Created by [40723209](https://s40723209.github.io/cad2019/content/index.html)
 [40723209網站](https://s40723209.github.io/cad2019/content/index.html)
 
 [40723209倉儲](https://github.com/s40723209/cad2019)</t>
+<t tx="leo.20200110111045.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110111045.2"># week9
+* #### 期中報告影片:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/92eYLVUY1Zw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110111122.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110111122.2"># week10
+* #### 建立組別網站
+* #### 下載NX3、NX12
+* #### 組員分配 inventor特點分析</t>
+<t tx="leo.20200110111719.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110111719.2"># week12
+* #### Batch Command
+* #### 組員個別完成nx12各章節內容閱讀與操作練習&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/fziDfrLIJa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110111726.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110111726.2"># week13
+* #### Webot tutorial 1~6操作影片:&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/js1lILB9A40" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110112321.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110112321.2"># week15
+* #### week15學習成果報告影片:&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/8RFNCPmVTB4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110112325.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110112325.2"># week16
+* #### 越野車零組件設計繪圖成果影片:&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/0NDzjD7S5X8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20200110112802.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200110112802.2"># week17
+* #### 越野車操作影片:
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/OQ_rg7D2rFw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
